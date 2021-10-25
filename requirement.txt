@@ -1,0 +1,13 @@
+email-validator==1.1.2
+Flask==1.1.2
+flask-bcrypt
+Flask-Cors==3.0.10
+Flask-JWT-Extended==3.25.0
+Flask-Mail==0.9.1
+flask-mongoengine==1.0.0
+Flask-WTF==0.14.3
+idna==2.9
+itsdangerous==1.1.0
+Jinja2==2.11.3
+python-dateutil==2.8.1
+python-dotenv==0.15.0

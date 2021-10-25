@@ -1,0 +1,49 @@
+
+.login-main{
+    padding-top: 70px;
+    max-width: 400px !important;
+}
+.footer-action {
+    /*font-size: 1.2rem !important;*/
+    font-weight: 500 !important;
+    color: #5a6d6d;
+}
+.footer-action:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.status-text {
+    font-size: 1.2rem;
+}
+.dashboard-content {
+    min-height: 750px;
+}
+.left-col {
+    font-size: 1.3rem;
+    min-height: 750px;
+}
+.nav-link {
+    padding: 10px;
+}
+
+.card-dashboard {
+    text-align: left;
+    margin: 10px auto;
+    max-width: 500px;
+    border-bottom: 3px solid dodgerblue !important;
+}
+.card-dashboard:hover {
+    background-color: rgb(244, 246, 250);
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.1);
+    border-bottom: 3px solid #0c5460 !important;
+    cursor: pointer;
+}
+.dashboard-body{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.card-header {
+    border-width: 2px !important;
+}

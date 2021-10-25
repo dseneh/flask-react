@@ -1,0 +1,10 @@
+
+.modal {
+    min-height: 350px;
+    height: auto;
+    top: auto;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    max-width: 400px !important;
+}

@@ -1,0 +1,11 @@
+venv
+.idea
+__pycache__
+#Profile/static/build/*
+client/.idea
+client/build
+client/.env
+client/node_modules
+client/package-lock.json
+.ebextensions/
+/client/build/

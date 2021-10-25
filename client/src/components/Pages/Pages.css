@@ -1,0 +1,108 @@
+.display-4 {
+    font-size: 3rem;
+    color: #1687a7;
+    font-weight: 200;
+}
+
+p, .p-desc {
+    font-size: 1.15rem;
+}
+
+section.pageSection {
+    min-height: 200px;
+}
+
+img.profile-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.profile-container {
+    max-width: 800px;
+}
+
+#about {
+    padding-top: 100px !important;
+    background-color: white !important;
+    /*min-height: 500px !important;*/
+}
+
+#experience, #education {
+    background-color: #f6f5f5;
+}
+
+#contact {
+    background-color: #555555;
+
+}
+
+.container {
+    max-width: 800px;
+}
+
+.contact > .icon {
+    font-size: 2.6rem !important;
+}
+
+.url {
+    font-size: 1.5rem !important;
+    padding-top: 0.9rem;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.contact, a {
+    color: #bfbfbf
+}
+
+.contact:hover * {
+    color: #fcf7f7 !important;
+}
+
+footer {
+    min-height: 75px;
+    color: #acaaaa;
+}
+
+.deactivate-page {
+    min-height: calc(100vh - 75px ) !important;
+}
+
+.deactivate-text {
+    padding-top: 200px;
+    margin: auto;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 100;
+}
+.error-text {
+    padding-top: 200px;
+    margin: auto;
+    text-align: center !important;
+    font-size: 1.5rem;
+    font-weight: 100;
+    color: grey;
+}
+
+
+@media screen and (max-width: 768px) {
+    #about {
+        padding-top: 20px !important;
+    }
+
+    .display-4 {
+        font-size: 2.4rem;
+        font-weight: 300;
+        line-height: 1.2;
+    }
+
+    img.profile-img {
+        margin-top: 19px;
+        height: 90px;
+        width: 90px;
+    }
+
+}
